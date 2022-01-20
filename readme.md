@@ -1,5 +1,5 @@
 # Lavalink on Replit
-[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
+[![Run on Repl.it](https://replit.com/badge/github/MJGaming1532/atb-lavalink)](https://repl.it/github/MJGaming1532/lavalink-repl)
 
 
 
@@ -7,7 +7,7 @@
 
 Fork this github repository. then create a new replit project.
 
-or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to install it automatically.
+or [click me](https://replit.com/github/MJGaming1532/lavalink-repl) to install it automatically.
 
 # How to use
 * Run the replit
@@ -20,11 +20,6 @@ Example `bot config`
 ![botconfreplit](https://cdn.discordapp.com/attachments/897469855362584576/933681554834739300/Untitled.png)
 
 Test bot from https://github.com/brblacky/lavamusic
-
-
-## Youtube tutorial
-[https://www.youtube.com/watch?v=bznq-P0Ovzk](https://www.youtube.com/watch?v=bznq-P0Ovzk) go say thanks to [kakarot](https://github.com/Kakarot-0690) for making it!
-- - -
 
 ## Note & such
 The default port to connect is `443` and the default password is `MJProAtNodeJS`
