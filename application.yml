@@ -4,7 +4,7 @@ server: # REST and WS server, Do not change this.
 
 lavalink:
   server:
-    password: "maybeiwasboring" # You can change this
+    password: "MJProAtNodeJS" # You can change this
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
     koe:
       useEpoll: true
