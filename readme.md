@@ -17,9 +17,9 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 Example `bot config`
 
 
-![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
+![botconfreplit](https://cdn.discordapp.com/attachments/897469855362584576/933681554834739300/Untitled.png)
 
-Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
+Test bot from https://github.com/brblacky/lavamusic
 
 
 ## Youtube tutorial
@@ -27,7 +27,7 @@ Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 - - -
 
 ## Note & such
-The default port to connect is `443` and the default password is `maybeiwasboring`
+The default port to connect is `443` and the default password is `MJProAtNodeJS`
 You can’t change the lavalink port! it will default to 443 due to how replit work.
 
 ### How to keep the replit on with [freshping](https://www.freshworks.com/website-monitoring/)
