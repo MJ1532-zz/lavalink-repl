@@ -44,3 +44,7 @@ chmod +x start.sh
 
 
 The [lavalink](https://github.com/melike2d/lavalink) is based on https://github.com/melike2d/lavalink and the download url is pointed to https://cdn.darrennathanael.com/jars/Lavalink.jar so everytime theres a new update it will auto grabs it from that url
+
+## Credits
+* All Credits By [DarrenOfficial](https://github.com/DarrenOfficial)
+* Check His Now [Repositories](https://github.com/DarrenOfficial/lavalink-replit)
